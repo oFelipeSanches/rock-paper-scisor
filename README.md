@@ -19,8 +19,9 @@
     
   <h2>Captura de Tela</h2>
     <p>Imagem ilustrativa do jogo:</p>
-    <img src="![Captura de tela 2024-07-08 105828](https://github.com/oFelipeSanches/rock-paper-scisor/assets/132526587/87beca40-4f9f-435e-9c52-aa9a48fc67ec)" 
+    <img src="https://github.com/oFelipeSanches/rock-paper-scisor/assets/132526587/699344be-b097-4640-8fbd-89d730604178" 
       alt="Captura de tela do jogo Pedra, Papel ou Tesoura">
     
   <h2>Contribuição</h2>
   <p>Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar um problema no repositório.</p>
+
